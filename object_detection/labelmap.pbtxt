@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: '61326Okfront'
+}
+
+item {
+  id: 2
+  name: '61326scratchMark'
+}
+
+item {
+  id: 3
+  name: '61326SlotDamage'
+}
+
+item {
+  id: 4
+  name: '61326Thinning'
+}
+
+item {
+  id: 5
+  name: '61326Wrinkle'
+}
+
+item {
+  id: 6
+  name: '61326OkBack'
+}
